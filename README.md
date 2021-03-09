@@ -6,7 +6,7 @@ In order to install the necessary libraries, see https://github.com/ytakefuji/py
 1. Download new_deaths.csv file.
 2. python animedaily.py
    Finland
-3. convert -delay 10 -loop 5 *.png uae.gif
+3. convert -delay 10 -loop 5 *.png finland.gif
    convert is a command to convert png files into a gif file
 In order to use a convert command, install ImageMagick for your OS.
 </pre>
