@@ -2,7 +2,8 @@
 <pre>
 0. Python libraries installation is needed to run animedaily.py
    animedaily.py is a program to generate png files for entered Country.
-In order to install the necessary libraries, see https://github.com/ytakefuji/python-novice
+In order to install the necessary libraries, 
+ see https://github.com/ytakefuji/python-novice
 1. Download new_deaths.csv file.
 2. python animedaily.py
    Finland
